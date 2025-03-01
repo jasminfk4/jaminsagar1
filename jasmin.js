@@ -37,8 +37,8 @@ window.addEventListener("DOMContentLoaded", function () {
 
                 // List of background images
                 const backgroundImages = [
-                    "https://seorankriddle.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-21-at-12.20.47-AM.jpeg",
-                    "https://seorankriddle.com/wp-content/uploads/2024/12/WhatsApp-Image-2024-12-21-at-12.22.10-AM.jpeg"
+                    "https://raw.githubusercontent.com/jasminfk4/jaminsagar1/refs/heads/main/final1.png",
+                    "https://raw.githubusercontent.com/jasminfk4/jaminsagar1/refs/heads/main/final2.png"
                 ];
 
                 // Get previously shown images
